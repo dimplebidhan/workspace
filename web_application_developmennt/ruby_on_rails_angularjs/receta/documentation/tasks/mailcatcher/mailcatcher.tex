@@ -1,0 +1,44 @@
+\documentclass[11pt]{article}
+
+\usepackage{a4wide}
+\usepackage[british]{babel}
+
+\usepackage[today]{svninfo}
+\svnInfo $Id: mailcatcher.tex 0 2015-03-20 21:43:38Z michaelstokes $
+
+\usepackage{url}
+
+\title{mailcatcher - Uni-Sale}
+\author{Michael A Stokes, \texttt{Michael Stokes}}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Implementing mailcatcher to run a simple SMTP Server catching
+messages sent to it. Messages can be accessed through the
+local SMPT Server http://127.0.0.1:1080.
+
+
+\subsection{Installation}
+
+\begin{enumerate}
+\item gem install mailcatcher
+\item mailcatcher
+\item Go to http://localhost:1080/
+\item Send mail through smtp://localhost:1025
+\end{enumerate}
+
+\begin{thebibliography}{9}
+
+\bibitem{mailcatcher}
+  mailcatcher - Ruby Gem
+  \emph{: a local smtp mail catcher and server}.
+  {\url{http://mailcatcher.me}},
+\end{thebibliography}
+
+
+
+\end{document}

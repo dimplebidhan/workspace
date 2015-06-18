@@ -1,0 +1,47 @@
+\documentclass[11pt]{article}
+
+\usepackage{a4wide}
+\usepackage[british]{babel}
+
+\usepackage[today]{svninfo}
+\svnInfo $Id: activeadmin.tex 0 2015-03-20 21:43:38Z michaelstokes $
+
+\usepackage{url}
+
+\title{Models - Uni-Sale}
+\author{Michael A Stokes, \texttt{Michael Stokes}}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Implementing University Model within the website for administritive
+privilidges such as manipulation of users, items etc.
+
+\subsection{Models}
+
+\begin{enumerate}
+\item User
+\item Address
+\end{enumerate}
+
+\subsection{Model Configurations activeadmin}
+\begin{enumerate}
+\item rails generate active\_admin:resource Item
+\item rails generate active\_admin:resource User
+\item rails generate active\_admin:assets
+\end{enumerate}
+
+\begin{thebibliography}{9}
+
+\bibitem{activeadmin}
+  Active Admin - Ruby Gem
+  \emph{: an administrative system}.
+  {\url{https://github.com/activeadmin/activeadmin}},
+\end{thebibliography}
+
+
+
+\end{document}

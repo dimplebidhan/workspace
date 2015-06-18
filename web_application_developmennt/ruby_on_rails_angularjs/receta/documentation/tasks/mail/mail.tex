@@ -1,0 +1,50 @@
+\documentclass[11pt]{article}
+
+\usepackage{a4wide}
+\usepackage[british]{babel}
+
+\usepackage[today]{svninfo}
+\svnInfo $Id: mail.tex 0 2015-03-20 21:43:38Z michaelstokes $
+
+\usepackage{url}
+
+\title{mail - Uni-Sale}
+\author{Michael A Stokes, \texttt{Michael Stokes}}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Implementing mail in applicatio for sending emails to users and receving
+emails from users.
+
+
+\subsection{Installation}
+
+\begin{enumerate}
+\item rails generate mailer UserMailer
+\item The Mailer Class UserMailer should extend from Devise::Mailer
+\item The Mailer UserMailer can then override Devise Default configuration:
+  \begin{enumerate}
+    \item def confirmation_instructions(record, token, opts={})
+    \item headers["Custom-header"] = "Bar"
+    \item opts[:from] = 'noreply@uni-sale.co.uk'
+    \item opts[:reply_to] = 'support@uni-sale.co.uk'
+    \item super
+    \item end
+  \end{enumerate}
+\end{enumerate}
+
+\begin{thebibliography}{9}
+
+\bibitem{mailcatcher}
+  mailcatcher - Ruby Gem
+  \emph{: a local smtp mail catcher and server}.
+  {\url{http://mailcatcher.me}},
+\end{thebibliography}
+
+
+
+\end{document}

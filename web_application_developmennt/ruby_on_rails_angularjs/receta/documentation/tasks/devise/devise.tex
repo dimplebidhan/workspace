@@ -1,0 +1,180 @@
+\documentclass[11pt]{article}
+
+\usepackage{a4wide}
+\usepackage[british]{babel}
+
+\usepackage[today]{svninfo}
+\svnInfo $Id: devise.tex 0 2015-03-20 21:43:38Z michaelstokes $
+
+\usepackage{url}
+
+\title{Devise- Uni-Sale}
+\author{Michael A Stokes, \texttt{Michael Stokes}}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Implementing Devise within the website for User
+privilidges such as login, register etc.
+
+\subsection{Installation}
+
+\begin{enumerate}
+\item gem devise
+\item rails generate devise:install
+\item rails generate devise:views
+\item rails generate devise User
+\item rake db:migrate
+\item rails server
+\end{enumerate}
+
+\subsection{Devise Configurations}
+
+\subsubsection{Modules}
+Extra Modules will be added:
+
+\begin{enumerate}
+\item Confirmable : sends emails with confirmation instructions and verifies whether an account is already confirmed during sign in
+{\url{http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Confirmable}}
+\item Timeoutable : expires sessions that have not been active in a specified period of time.
+{\url{http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Timeoutable}}
+\item Lockable : locks an account after a specified number of failed sign-in attempts. Can unlock via email or after a specified time period.
+{\url{http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Lockable}}
+\end{enumerate}
+
+\subsubsection{User Attributes}
+Extra Attributes will be added to the User and Devise Configuration:
+\begin{enumerate}
+
+	\item Username : Users must register a username and will be able to login by that username. The 	username is the Users identity.
+		\begin{enumerate}
+			\item rails generate migration add\_username\_to\_users username:string:uniq
+			\item before\_action :configure\_permitted\_parameters, if: :devise\_controller?
+			\item attr\_accessor :login
+			\hfill \\
+			{\url{https://github.com/plataformatec/devise/wiki/How-To:-Allow-users-to-sign-in-using-		their-username-or-email-address}}
+		\end{enumerate}
+
+	\item First Name : Users must register a First Name.
+		\begin{enumerate}
+			\item rails generate migration add\_first\_name\_to\_users first\_name:string
+		\end{enumerate}
+
+	\item Last Name : Users must register a Last Name.
+		\begin{enumerate}
+			\item rails generate migration add\_last\_name\_to\_users last\_name:string
+		\end{enumerate}
+
+	\item Phone Number : Users must register a Phone Number.
+		\begin{enumerate}
+			\item rails generate migration add\_phone\_number\_to\_users phone\_number:string
+		\end{enumerate}
+
+		\item All : Username, First Name, Last Name, Phone Number
+			\begin{enumerate}
+				\item rails generate migration add\_extra\_attributes\_to\_users phone\_number:string first\_name:string last\_name\_string
+			\end{enumerate}
+
+	\item rake db:migrate
+\end{enumerate}
+
+\subsubsection{User Attributes}
+Extra Attributes will be added to the User and Devise Configuration:
+\begin{enumerate}
+
+\item Groups : Users belong to 1 or many groups.
+	A user can belong to many groups, a user may be general internal user or external user i.e. student or company.
+	If a student then normal site, if company then different panel.
+
+	User Groups
+	\begin{enumerate}
+		\item id - The id.
+		\item user\_id - The id of the user.
+		\item group\_id - The id of the group the user belongs to.
+		\item rails generate model User\_Groups user\_id:integer group\_id:integer
+	\end{enumerate}
+
+
+Groups
+\begin{enumerate}
+	\item id - The id.
+	\item name - The name of the group.
+	\item description - The description of the group.
+	\item rails g model Groups name:String description:Text
+\end{enumerate}
+
+\end{enumerate}
+
+	\item Username : Users must register a username and will be able to login by that username. The 	username is the Users identity.
+		\begin{enumerate}
+			\item rails generate migration add\_username\_to\_users username:string:uniq
+			\item before\_action :configure\_permitted\_parameters, if: :devise\_controller?
+			\item attr\_accessor :login
+			\hfill \\
+			{\url{https://github.com/plataformatec/devise/wiki/How-To:-Allow-users-to-sign-in-using-		their-username-or-email-address}}
+		\end{enumerate}
+
+\subsubsection{Override Default Devise}
+We will override the default Devise Configuration and thus generate a Devise Controller and then override the methods i.e. in registration and session.
+
+\begin{enumerate}
+	\item Controller : Override default Devise and generate Devise Controllers:
+		\begin{enumerate}
+			\item rails generate devise:controllers users
+			\item Add Filters i.e. before calling create call private method prior\_create to check domain valid and other checks etc and if not redirect with flash message.
+			\hfill \\
+			{\url{https://github.com/plataformatec/devise}}
+		\end{enumerate}
+	\item Routes : Alter the Routes to use the defined Devise Controllers:
+	\begin{enumerate}
+		\item Registrations and Sessions Controller for Sign\_up and Login
+	\end{enumerate}
+			\hfill \\
+			{\url{https://github.com/plataformatec/devise}}
+\end{enumerate}
+
+\section{Registration}
+Implementing Devise Custom Registration. The default Devise Configuration will be changed and thus Devise Controller Actions will be override and filters will be used.
+
+\subsection{Registration Steps}
+
+\begin{enumerate}
+\item User Enters Registration details
+\item Controller called, before filter in place i.e. before create in register controller is called prior\_create will be called rather which will perform many checks.
+\item Registration prior create checks include:
+	\begin{enumerate}
+		\item Validation.
+		\item Check Domain, is it a valid ac.uk address i.e. surrey.ac.uk and does it exist in the Domains table.
+		\item Uniqueness.
+	\end{enumerate}
+\item Registration Post Steps include:
+	\begin{enumerate}
+		\item Send Activation Email
+		\item User Activates and then can login.
+	\end{enumerate}
+\end{enumerate}
+
+\subsubsection{Confirmable}
+The Extra Module Confirmable to be added:
+\begin{enumerate}
+			\item devise :registerable, :confirmable
+			\item rails g migration add_confirmable_to_devise
+			\item Change migration file.
+			\hfill \\
+			{\url{https://github.com/plataformatec/devise/wiki/How-To:-Add-:confirmable-to-Users}}
+		\end{enumerate}
+
+\begin{thebibliography}{9}
+
+\bibitem{devise}
+  Devise - Ruby Gem
+  \emph{: User Login/Register}.
+  {\url{https://github.com/plataformatec/devise}},
+\end{thebibliography}
+
+
+
+\end{document}

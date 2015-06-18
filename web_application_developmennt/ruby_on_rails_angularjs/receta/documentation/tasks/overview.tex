@@ -1,0 +1,73 @@
+\documentclass[11pt]{report}
+
+\usepackage{a4wide}
+\usepackage[british]{babel}
+
+\usepackage[today]{svninfo}
+\svnInfo $Id: overview.tex 0 2015-03-20 10:16:38Z michaelstokes $
+
+\usepackage[nottoc]{tocbibind}
+\usepackage{url}
+\usepackage{color}
+\usepackage[colorlinks=true,linkcolor=blue]{hyperref}
+
+\hypersetup{
+    colorlinks=true, % make the links colored
+    linkcolor=black, % color TOC links in blue
+    urlcolor=red, % color URLs in red
+    linktoc=all % 'all' will create links for everything in the TOC
+}
+
+\begin{document}
+
+\title{RedGap - Project - Web Site}
+\author{Michael A Stokes, \texttt{Michael Stokes}}
+\date{\today}
+\maketitle
+
+\clearpage
+
+\tableofcontents
+\label{sec:tableofcontents}
+\newpage
+
+\chapter[Introduction]{An Introduction to the overview of tasks in this project.}
+
+	\section{Structure}
+	This section's content...
+
+	\paragraph{Implementation of tasks within Ruby on Rails Project RedGap.}
+
+\chapter{Tasks Overview}
+
+\begin{enumerate}
+	\item \hyperref[sec:initial]{Initial Ruby on Rails Project Creation}
+	\item Generate Core Controller for index, about, legal etc
+	\item Devise (login/registration)
+	\item Active Admin
+	\item Contact us
+\end{enumerate}
+
+\chapter{Initial}
+\label{sec:initial}
+
+\chapter{Development Tasks}
+\label{sec:tasks}
+
+\begin{enumerate}
+
+	\item \hyperref[sec:initial]{Initial Ruby on Rails Project Creation}
+		\begin{enumerate}
+			\item \hyperref[sec:initial]{Lalala}
+		\end{enumerate}
+
+	\item Generate Core Controller for index, about, legal etc
+	\item Devise (login/registration)
+	\item Active Admin
+	\item Contact us
+	\item Item Scaffold
+\end{enumerate}
+
+
+
+\end{document}
