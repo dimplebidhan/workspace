@@ -6,13 +6,14 @@
 #= require_tree ./Controllers/main
 #= require_tree ./Directives/main
 #= require_tree ./Filters/main
-#= require_tree ./Services/main
+# = require_tree ./Services/main
 
-# Creates new Angular module called 'Blog'
+# Creates new Angular Module 'Blog'
 Blog = angular.module('Blog', [])
 
-# Sets up routing
+# Sets up Routing
 Blog.config(['$routeProvider', ($routeProvider) ->
+
   # Route for '/post'
   $routeProvider.when('/post/:postId', { templateUrl: '../assets/mainPost.html', controller: 'PostCtrl' } )
 

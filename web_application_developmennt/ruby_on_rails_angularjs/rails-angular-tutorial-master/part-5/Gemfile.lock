@@ -113,3 +113,6 @@ DEPENDENCIES
   sass-rails (~> 4.0.0.rc2)
   turbolinks
   uglifier (>= 1.0.3)
+
+BUNDLED WITH
+   1.10.4

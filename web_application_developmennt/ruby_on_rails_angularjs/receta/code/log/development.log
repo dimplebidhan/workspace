@@ -4321,3 +4321,1611 @@ Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05c
 
 
 Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-22 14:49:10 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:07:08 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 3976ms (Views: 3975.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/app.self-e73dc9c0fe0321e8819119ef611369e2a25282c1bad95c6cbb3a04537a3af4f1.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:07:13 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:45:30 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 3877ms (Views: 3876.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/app.self-e73dc9c0fe0321e8819119ef611369e2a25282c1bad95c6cbb3a04537a3af4f1.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:45:34 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:46:51 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 448ms (Views: 448.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/app.self-4784720211e733f4d6a2eb6ca76c2ed38eaa72c9a56121405da1e88fb4a16448.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:46:52 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:46:53 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 47ms (Views: 47.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/app.self-4784720211e733f4d6a2eb6ca76c2ed38eaa72c9a56121405da1e88fb4a16448.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:46:53 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:46:59 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 522ms (Views: 521.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/app.self-a285abccd05e949a1ce91cde5123a421b2d3511d7233dad38feb7ca70c0986ab.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:46:59 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:00 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 49ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/app.self-a285abccd05e949a1ce91cde5123a421b2d3511d7233dad38feb7ca70c0986ab.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:47:00 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:02 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 44ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:04 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 43ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/app.self-a285abccd05e949a1ce91cde5123a421b2d3511d7233dad38feb7ca70c0986ab.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:47:04 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:11 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 415ms (Views: 415.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/app.self-f459495ae3624e9b57bfb31bf76f0e64b4a9c49861c14cda4f95067be6364a6b.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:47:11 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:21 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 499ms (Views: 498.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/app.self-222e9954d6c77ab7f04cf564d6fe85a12515b76bce6842ec105807f1e4db3051.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:47:21 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:22 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 53ms (Views: 53.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/app.self-222e9954d6c77ab7f04cf564d6fe85a12515b76bce6842ec105807f1e4db3051.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:47:22 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:25 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 61ms (Views: 60.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:30 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 49ms (Views: 48.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:39 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 416ms (Views: 415.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/app.self-208a2655cd4f7b40b545a430e0276476423afcfeb70f41f4f379cda59dc697cf.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:47:40 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:41 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 46ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/app.self-208a2655cd4f7b40b545a430e0276476423afcfeb70f41f4f379cda59dc697cf.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:47:41 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:47:46 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 428ms (Views: 427.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:47:46 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:47:46 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:47:46 +0100
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:47:47 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:47:47 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:47:47 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:47:47 +0100
+
+
+Started GET "/assets/app.self-e73dc9c0fe0321e8819119ef611369e2a25282c1bad95c6cbb3a04537a3af4f1.js?body=1" for ::1 at 2015-06-24 01:47:47 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:47:47 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:47:47 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:47:47 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:47:47 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:48:06 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 509ms (Views: 509.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/app.self-08d22b9a33dd8ca026b86d810342bce22ae84481cc90c57a70271619fa37dc8f.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:48:07 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 42ms (Views: 41.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/app.self-08d22b9a33dd8ca026b86d810342bce22ae84481cc90c57a70271619fa37dc8f.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:48:07 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:48:29 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 431ms (Views: 430.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/app.self-e6b1d1f17b77a5e35db29e86b85d8604c4bf38b01ae54b0ea71d0362e5356c35.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:48:29 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:48:50 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 45ms (Views: 44.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/app.self-e6b1d1f17b77a5e35db29e86b85d8604c4bf38b01ae54b0ea71d0362e5356c35.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:48:50 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:48:53 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 48ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-24 01:49:10 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 526ms (Views: 525.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/app.self-72367fb06c76bd1f5ddb3c5ac2b4e0a65ef80bbc9750fd4581ca13c98f46c65a.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:49:11 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:50:13 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 50ms (Views: 49.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/app.self-e6b1d1f17b77a5e35db29e86b85d8604c4bf38b01ae54b0ea71d0362e5356c35.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:50:13 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:51:05 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 456ms (Views: 455.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:51:05 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:51:05 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:51:05 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:51:05 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:51:05 +0100
+
+
+Started GET "/assets/app.self-f899e3d204cfa2898e5e0eefbecb334ad78e24760e9802a7e4f235cd1db96dee.js?body=1" for ::1 at 2015-06-24 01:51:05 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:51:05 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:51:05 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:51:06 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:51:06 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:51:06 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:51:06 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:51:50 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 522ms (Views: 521.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/app.self-f899e3d204cfa2898e5e0eefbecb334ad78e24760e9802a7e4f235cd1db96dee.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:51:51 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:51:56 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 59ms (Views: 59.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-24 01:52:13 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 440ms (Views: 440.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/app.self-f8ead2f9665f92db18e2d23bc03eb58c9de00291653bf435059a54fab8311c33.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:52:13 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:52:14 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 47ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/app.self-f8ead2f9665f92db18e2d23bc03eb58c9de00291653bf435059a54fab8311c33.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:52:14 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:52:16 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 58ms (Views: 57.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-24 01:52:37 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 53ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:52:37 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:52:37 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:52:37 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:52:37 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:52:37 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:52:38 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:52:38 +0100
+
+
+Started GET "/assets/app.self-f8ead2f9665f92db18e2d23bc03eb58c9de00291653bf435059a54fab8311c33.js?body=1" for ::1 at 2015-06-24 01:52:38 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:38 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:38 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:52:38 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:52:38 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:52:38 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:52:54 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 424ms (Views: 424.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/app.self-72367fb06c76bd1f5ddb3c5ac2b4e0a65ef80bbc9750fd4581ca13c98f46c65a.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:52:54 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:52:55 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 44ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/app.self-72367fb06c76bd1f5ddb3c5ac2b4e0a65ef80bbc9750fd4581ca13c98f46c65a.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-285889f9b3f081257ccfe1981f53c6e312697fe1847eb4ce51acd05445488384.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:52:55 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:53:29 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 527ms (Views: 526.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/app.self-f8ead2f9665f92db18e2d23bc03eb58c9de00291653bf435059a54fab8311c33.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:53:29 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:53:30 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 54ms (Views: 53.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/app.self-f8ead2f9665f92db18e2d23bc03eb58c9de00291653bf435059a54fab8311c33.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:53:30 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:54:03 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 448ms (Views: 447.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/app.self-b63d37e112bf12c88b2ec8dd26cfba898c1c47747c0968c8e654fb7f3b1a31ae.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:54:04 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:54:42 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 122ms (Views: 121.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/app.self-f8ead2f9665f92db18e2d23bc03eb58c9de00291653bf435059a54fab8311c33.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:54:42 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:54:53 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 471ms (Views: 470.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/app.self-87a480394ad007ef81dda222413e23f9138e3aac20307caa71516c5cfe35bc9f.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:54:53 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:54:54 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 52ms (Views: 52.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/app.self-87a480394ad007ef81dda222413e23f9138e3aac20307caa71516c5cfe35bc9f.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:54:54 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 01:55:00 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 479ms (Views: 478.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/app.self-77150100771f9a86e7e2a20fdeb9f701c4dbf5df8c88b977b108b622b69cd947.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 01:55:01 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 13:37:26 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 4738ms (Views: 4737.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-24 13:37:31 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 85ms (Views: 84.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-24 13:37:34 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 49ms (Views: 48.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/app.self-f8ead2f9665f92db18e2d23bc03eb58c9de00291653bf435059a54fab8311c33.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 13:37:34 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 14:33:35 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 3849ms (Views: 3848.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/app.self-f8ead2f9665f92db18e2d23bc03eb58c9de00291653bf435059a54fab8311c33.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 14:33:39 +0100
+
+
+Started GET "/" for ::1 at 2015-06-24 14:34:52 +0100
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 59ms (Views: 58.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/angular/angular.self-6d712cb68676bed895d107d8bb26dea88d8f40a12c33d773dcd8360e4cba9c54.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/application.self-02c7e4623596248b54863400235ae262d2b045634811ceb68427045ae7849249.css?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/jquery/dist/jquery.self-a4777c1acac0a74340755725342901a54ed000955bf6f5320491b8b2514c86ec.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/angular-route/angular-route.self-c852d0473398c0748bafc5d271439aed1829c4b945df47f1da8394a7008ab154.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/angular-rails-templates.self-0cb4b19debc640ed69cbcf42939a1289977dedf73a8d318f2db162b1f2834920.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/app.self-f8ead2f9665f92db18e2d23bc03eb58c9de00291653bf435059a54fab8311c33.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/Controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/controllers/main/mainPostCtrl.self-6503f231c2eab0648d673040429e8ce687a4303d16e96fdf4c5e5a23c31f34c4.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/templates/templates.self-b33fac1a9f5b34dcf5862c143c7ec8b05cd68197372a81a54c669a39befcc604.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for ::1 at 2015-06-24 14:34:52 +0100

@@ -26,6 +26,5 @@ module Blog
 
     # Needed for Bootstrap-Sass gem
     config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif)
-    config.assets.paths << Rails.root.join("templates")
   end
 end

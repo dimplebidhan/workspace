@@ -1,0 +1,10 @@
+<!-- app/assets/templates/restaurants/index.html -->
+
+<a href="/#">index</a>
+
+<div class="container" style="margin-top: 40px">
+  <h1 class="text-center">Restaurants</h1>
+  <div class="row" ng-repeat="restaurant in data.restaurants">
+    <h2><a ng-click="viewRestaurant(restaurant.id)">{{restaurant.name}}</a></h2>
+  </div>
+</div>

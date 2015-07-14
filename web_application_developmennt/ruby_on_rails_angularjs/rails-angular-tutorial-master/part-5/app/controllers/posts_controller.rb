@@ -2,7 +2,6 @@ class PostsController < ApplicationController
   respond_to :json
 
   def index
-
     # Gather all post data
     posts = Post.all
 
@@ -32,7 +31,7 @@ class PostsController < ApplicationController
     respond_with(new_post) do |format|
       format.json { render :json => new_post.as_json }
     end
-    
+
   end
 
 end

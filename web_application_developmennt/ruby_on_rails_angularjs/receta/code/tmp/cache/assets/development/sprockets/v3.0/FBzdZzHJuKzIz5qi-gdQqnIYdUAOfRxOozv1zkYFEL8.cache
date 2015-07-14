@@ -1,0 +1,24 @@
+I">(function() {
+  var controllers, receta;
+
+  controllers = angular.module('controllers', []);
+
+  receta = angular.module('receta', ['templates', 'ngRoute', 'controllers']);
+
+  receta.config([
+    '$routeProvider', function($routeProvider) {
+      return $routeProvider.when('/', {
+        templateUrl: 'index.html',
+        controller: 'RecipesController'
+      });
+    }
+  ]);
+
+  receta.config([
+    "$httpProvider", function(provider) {
+      return provider.defaults.headers.common['X-CSRF-Token'] = $('meta[name=csrf-token]').attr('content');
+    }
+  ]);
+
+}).call(this);
+:ET

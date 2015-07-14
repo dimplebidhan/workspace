@@ -37,7 +37,7 @@ angular.module('Blog').factory('postData', ['$http', ($http) ->
 
     # Do POST request to /posts.json
     $http.post('./posts.json', data).success( (data) ->
-      
+
       # Add new post to array of posts
       postData.data.posts.push(data)
       console.log('Successfully created post.')

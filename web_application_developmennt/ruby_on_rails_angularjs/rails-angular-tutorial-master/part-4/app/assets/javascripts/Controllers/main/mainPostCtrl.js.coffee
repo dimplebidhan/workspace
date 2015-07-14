@@ -1,10 +1,7 @@
 @PostCtrl = ($scope, $routeParams, postData) ->
 
   $scope.data =
-    postData: postData.data
-
-  postData.loadPosts()
+    post: postData.data.posts[0]
 
   $scope.data.postId = $routeParams.postId
-
-@PostCtrl.$inject = ['$scope', '$routeParams', 'postData']
+  console.log($routeParams)

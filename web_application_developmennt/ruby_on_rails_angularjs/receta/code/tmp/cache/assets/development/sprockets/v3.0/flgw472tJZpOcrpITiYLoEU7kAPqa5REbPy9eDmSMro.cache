@@ -1,0 +1,5 @@
+I"s(function() {
+  controllers.controller("RecipesController", ['$scope', function($scope) {}]);
+
+}).call(this);
+:ET
